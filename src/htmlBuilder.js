@@ -70,7 +70,7 @@ const generateGithubLink = () => `
 
 const generateCardHeader = () => `
   <div class="card-header text-center">
-    <h1 class="display-4 mb-0">Wilcox</h1>
+    <h1 class="display-4 mb-0">Wilcox Subconverter</h1>
   </div>
 `;
 
